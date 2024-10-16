@@ -27,6 +27,7 @@ Here is a mapping code for anyone who uses a keyboard for FIFA game. This will c
 -   The `on_press()` function detects key presses:
     -   Arrow keys control joystick movements.
     -   The `shift` key controls the left shoulder button (LB).
+    -   The `Z` key controls the right shoulder button (RB)
     -   The `W` key controls the `Y` button.
     -   The `A` key controls the `X` button.
     -   The `S` key controls the `A` button.
