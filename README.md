@@ -27,8 +27,12 @@ Here is a mapping code for anyone who uses a keyboard for FIFA game. This will c
 -   The `on_press()` function detects key presses:
     -   Arrow keys control joystick movements.
     -   The `shift` key controls the left shoulder button (LB).
+    -   The `W` key controls the `Y` button.
+    -   The `A` key controls the `X` button.
+    -   The `S` key controls the `A` button.
+    -   The `D` key controls the `B` buuton.
+    -   The `[` `]` key controls the D-pad left and right.
     -   The `ctrl_l` key modifies the arrow keys to move the right stick.
-    -   Specific letters (e.g., `w`, `a`, `d`) are mapped to gamepad buttons.
     -   The `c` and `e` keys control the LT and RT triggers respectively.
 
 ### 5\. **Key Release Handling**
